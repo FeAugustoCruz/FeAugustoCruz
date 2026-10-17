@@ -123,17 +123,15 @@ Projetos pessoais e acadêmicos que fazem parte da minha prática de programaç�
 </div>
 ---
 
+
 ## Conquistas
 
 <div align="center">
 
-<img
-  width="95%"
-  src="https://github-profile-trophy.vercel.app/?username=FeAugustoCruz&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6"
-  alt="Conquistas do perfil no GitHub"
-/>
+[![GitHub](https://img.shields.io/badge/GitHub-Perfil-0D1117?style=for-the-badge&logo=github&logoColor=F97316)](https://github.com/FeAugustoCruz)
 
 </div>
+
 
 ---
 
