@@ -139,8 +139,6 @@ Projetos pessoais e acadêmicos que fazem parte da minha prática de programaç�
 
 ## Contribuições
 
-## Contribuições
-
 <div align="center">
 
 <picture>
