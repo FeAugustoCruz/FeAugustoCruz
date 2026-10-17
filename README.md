@@ -112,13 +112,11 @@ Projetos pessoais e acadêmicos que fazem parte da minha prática de programaç�
 
 <div align="center">
 
-<a href="https://github.com/FeAugustoCruz">
-  <img
-    width="95%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=FeAugustoCruz&bg_color=0D1117&color=F97316&line=F97316&point=FFFFFF&hide_border=true"
-    alt="Gráfico de atividade no GitHub"
-  />
-</a>
+<img
+  width="95%"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=FeAugustoCruz&bg_color=0D1117&color=F97316&line=F97316&point=FFFFFF&hide_border=true"
+  alt="Gráfico de atividade no GitHub"
+/>
 
 </div>
 ---
