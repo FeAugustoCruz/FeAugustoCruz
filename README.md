@@ -113,18 +113,25 @@ Projetos pessoais e acadêmicos que fazem parte da minha prática de programaç�
 <div align="center">
 
 <a href="https://github.com/FeAugustoCruz">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=FeAugustoCruz&bg_color=0D1117&color=C9D1D9&line=F97316&point=FFFFFF&area=true&area_color=F97316&hide_border=true&custom_title=Atividade%20no%20GitHub" alt="Gráfico de atividade no GitHub"/>
+  <img
+    width="95%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=FeAugustoCruz&bg_color=0D1117&color=F97316&line=F97316&point=FFFFFF&hide_border=true"
+    alt="Gráfico de atividade no GitHub"
+  />
 </a>
 
 </div>
-
 ---
 
 ## Conquistas
 
 <div align="center">
 
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=FeAugustoCruz&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=6&title_color=F97316&icon_color=F97316&text_color=C9D1D9" alt="Conquistas do perfil no GitHub"/>
+<img
+  width="95%"
+  src="https://github-profile-trophy.vercel.app/?username=FeAugustoCruz&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6"
+  alt="Conquistas do perfil no GitHub"
+/>
 
 </div>
 
