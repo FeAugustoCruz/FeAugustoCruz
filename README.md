@@ -139,17 +139,24 @@ Projetos pessoais e acadêmicos que fazem parte da minha prática de programaç�
 
 ## Contribuições
 
+## Contribuições
+
 <div align="center">
 
-<!--
-  A animação abaixo precisa ser gerada por um workflow do GitHub Actions
-  utilizando Platane/snk. Os arquivos SVG devem ser publicados na branch output.
--->
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FeAugustoCruz/FeAugustoCruz/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FeAugustoCruz/FeAugustoCruz/output/github-contribution-grid-snake.svg"/>
-  <img width="100%" src="https://raw.githubusercontent.com/FeAugustoCruz/FeAugustoCruz/output/github-contribution-grid-snake.svg" alt="Animação da cobrinha percorrendo o gráfico de contribuições"/>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/FeAugustoCruz/FeAugustoCruz/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/FeAugustoCruz/FeAugustoCruz/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    width="100%"
+    src="https://raw.githubusercontent.com/FeAugustoCruz/FeAugustoCruz/output/github-contribution-grid-snake.svg"
+    alt="Animação das contribuições no GitHub"
+  />
 </picture>
 
 </div>
